@@ -1,0 +1,236 @@
+Info) VMD for LINUXAMD64, version 1.9.4a37 (August 27, 2019)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 32 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA AVX512F AVX512CD 
+Info) Free system memory: 367GB (97%)
+Info) No CUDA accelerator devices available.
+Info) Detected 1 available TachyonL/OptiX ray tracing accelerator
+Info)   Compiling 1 OptiX shaders on 1 target GPU...
+Info) Dynamically loaded 3 plugins in directory:
+Info) /Projects/vmd/pub/linux64/lib/vmd194a37/plugins/LINUXAMD64/molfile
+Info) File loading in progress, please wait.
+psfplugin) Detected a Charmm PSF file
+Info) Using plugin psf for structure file ../../../ionized.psf
+Info) Analyzing structure ...
+Info)    Atoms: 307238
+Info)    Bonds: 218680
+Info)    Angles: 165700  Dihedrals: 111880  Impropers: 7240  Cross-terms: 2920
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 91598
+Info)    Waters: 88020
+Info)    Segments: 59
+Info)    Fragments: 88678   Protein: 40   Nucleic: 0
+dcdplugin) detected standard 32-bit DCD file of native endianness
+dcdplugin) CHARMM format DCD file (also NAMD 2.1 and later)
+Info) Using plugin dcd for coordinates from file ../../../last100fr.dcd
+Info) Finished with coordinate file ../../../last100fr.dcd.
+H1 H2 I1 I2 J1 J2 K1 K2 L1 L2 M1 M2
+A B C D E F G H I J K L
+100
+Info) Opened coordinate file frm0.pdb for writing.
+Info) Finished with coordinate file frm0.pdb.
+Info) Opened coordinate file frm1.pdb for writing.
+Info) Finished with coordinate file frm1.pdb.
+Info) Opened coordinate file frm2.pdb for writing.
+Info) Finished with coordinate file frm2.pdb.
+Info) Opened coordinate file frm3.pdb for writing.
+Info) Finished with coordinate file frm3.pdb.
+Info) Opened coordinate file frm4.pdb for writing.
+Info) Finished with coordinate file frm4.pdb.
+Info) Opened coordinate file frm5.pdb for writing.
+Info) Finished with coordinate file frm5.pdb.
+Info) Opened coordinate file frm6.pdb for writing.
+Info) Finished with coordinate file frm6.pdb.
+Info) Opened coordinate file frm7.pdb for writing.
+Info) Finished with coordinate file frm7.pdb.
+Info) Opened coordinate file frm8.pdb for writing.
+Info) Finished with coordinate file frm8.pdb.
+Info) Opened coordinate file frm9.pdb for writing.
+Info) Finished with coordinate file frm9.pdb.
+Info) Opened coordinate file frm10.pdb for writing.
+Info) Finished with coordinate file frm10.pdb.
+Info) Opened coordinate file frm11.pdb for writing.
+Info) Finished with coordinate file frm11.pdb.
+Info) Opened coordinate file frm12.pdb for writing.
+Info) Finished with coordinate file frm12.pdb.
+Info) Opened coordinate file frm13.pdb for writing.
+Info) Finished with coordinate file frm13.pdb.
+Info) Opened coordinate file frm14.pdb for writing.
+Info) Finished with coordinate file frm14.pdb.
+Info) Opened coordinate file frm15.pdb for writing.
+Info) Finished with coordinate file frm15.pdb.
+Info) Opened coordinate file frm16.pdb for writing.
+Info) Finished with coordinate file frm16.pdb.
+Info) Opened coordinate file frm17.pdb for writing.
+Info) Finished with coordinate file frm17.pdb.
+Info) Opened coordinate file frm18.pdb for writing.
+Info) Finished with coordinate file frm18.pdb.
+Info) Opened coordinate file frm19.pdb for writing.
+Info) Finished with coordinate file frm19.pdb.
+Info) Opened coordinate file frm20.pdb for writing.
+Info) Finished with coordinate file frm20.pdb.
+Info) Opened coordinate file frm21.pdb for writing.
+Info) Finished with coordinate file frm21.pdb.
+Info) Opened coordinate file frm22.pdb for writing.
+Info) Finished with coordinate file frm22.pdb.
+Info) Opened coordinate file frm23.pdb for writing.
+Info) Finished with coordinate file frm23.pdb.
+Info) Opened coordinate file frm24.pdb for writing.
+Info) Finished with coordinate file frm24.pdb.
+Info) Opened coordinate file frm25.pdb for writing.
+Info) Finished with coordinate file frm25.pdb.
+Info) Opened coordinate file frm26.pdb for writing.
+Info) Finished with coordinate file frm26.pdb.
+Info) Opened coordinate file frm27.pdb for writing.
+Info) Finished with coordinate file frm27.pdb.
+Info) Opened coordinate file frm28.pdb for writing.
+Info) Finished with coordinate file frm28.pdb.
+Info) Opened coordinate file frm29.pdb for writing.
+Info) Finished with coordinate file frm29.pdb.
+Info) Opened coordinate file frm30.pdb for writing.
+Info) Finished with coordinate file frm30.pdb.
+Info) Opened coordinate file frm31.pdb for writing.
+Info) Finished with coordinate file frm31.pdb.
+Info) Opened coordinate file frm32.pdb for writing.
+Info) Finished with coordinate file frm32.pdb.
+Info) Opened coordinate file frm33.pdb for writing.
+Info) Finished with coordinate file frm33.pdb.
+Info) Opened coordinate file frm34.pdb for writing.
+Info) Finished with coordinate file frm34.pdb.
+Info) Opened coordinate file frm35.pdb for writing.
+Info) Finished with coordinate file frm35.pdb.
+Info) Opened coordinate file frm36.pdb for writing.
+Info) Finished with coordinate file frm36.pdb.
+Info) Opened coordinate file frm37.pdb for writing.
+Info) Finished with coordinate file frm37.pdb.
+Info) Opened coordinate file frm38.pdb for writing.
+Info) Finished with coordinate file frm38.pdb.
+Info) Opened coordinate file frm39.pdb for writing.
+Info) Finished with coordinate file frm39.pdb.
+Info) Opened coordinate file frm40.pdb for writing.
+Info) Finished with coordinate file frm40.pdb.
+Info) Opened coordinate file frm41.pdb for writing.
+Info) Finished with coordinate file frm41.pdb.
+Info) Opened coordinate file frm42.pdb for writing.
+Info) Finished with coordinate file frm42.pdb.
+Info) Opened coordinate file frm43.pdb for writing.
+Info) Finished with coordinate file frm43.pdb.
+Info) Opened coordinate file frm44.pdb for writing.
+Info) Finished with coordinate file frm44.pdb.
+Info) Opened coordinate file frm45.pdb for writing.
+Info) Finished with coordinate file frm45.pdb.
+Info) Opened coordinate file frm46.pdb for writing.
+Info) Finished with coordinate file frm46.pdb.
+Info) Opened coordinate file frm47.pdb for writing.
+Info) Finished with coordinate file frm47.pdb.
+Info) Opened coordinate file frm48.pdb for writing.
+Info) Finished with coordinate file frm48.pdb.
+Info) Opened coordinate file frm49.pdb for writing.
+Info) Finished with coordinate file frm49.pdb.
+Info) Opened coordinate file frm50.pdb for writing.
+Info) Finished with coordinate file frm50.pdb.
+Info) Opened coordinate file frm51.pdb for writing.
+Info) Finished with coordinate file frm51.pdb.
+Info) Opened coordinate file frm52.pdb for writing.
+Info) Finished with coordinate file frm52.pdb.
+Info) Opened coordinate file frm53.pdb for writing.
+Info) Finished with coordinate file frm53.pdb.
+Info) Opened coordinate file frm54.pdb for writing.
+Info) Finished with coordinate file frm54.pdb.
+Info) Opened coordinate file frm55.pdb for writing.
+Info) Finished with coordinate file frm55.pdb.
+Info) Opened coordinate file frm56.pdb for writing.
+Info) Finished with coordinate file frm56.pdb.
+Info) Opened coordinate file frm57.pdb for writing.
+Info) Finished with coordinate file frm57.pdb.
+Info) Opened coordinate file frm58.pdb for writing.
+Info) Finished with coordinate file frm58.pdb.
+Info) Opened coordinate file frm59.pdb for writing.
+Info) Finished with coordinate file frm59.pdb.
+Info) Opened coordinate file frm60.pdb for writing.
+Info) Finished with coordinate file frm60.pdb.
+Info) Opened coordinate file frm61.pdb for writing.
+Info) Finished with coordinate file frm61.pdb.
+Info) Opened coordinate file frm62.pdb for writing.
+Info) Finished with coordinate file frm62.pdb.
+Info) Opened coordinate file frm63.pdb for writing.
+Info) Finished with coordinate file frm63.pdb.
+Info) Opened coordinate file frm64.pdb for writing.
+Info) Finished with coordinate file frm64.pdb.
+Info) Opened coordinate file frm65.pdb for writing.
+Info) Finished with coordinate file frm65.pdb.
+Info) Opened coordinate file frm66.pdb for writing.
+Info) Finished with coordinate file frm66.pdb.
+Info) Opened coordinate file frm67.pdb for writing.
+Info) Finished with coordinate file frm67.pdb.
+Info) Opened coordinate file frm68.pdb for writing.
+Info) Finished with coordinate file frm68.pdb.
+Info) Opened coordinate file frm69.pdb for writing.
+Info) Finished with coordinate file frm69.pdb.
+Info) Opened coordinate file frm70.pdb for writing.
+Info) Finished with coordinate file frm70.pdb.
+Info) Opened coordinate file frm71.pdb for writing.
+Info) Finished with coordinate file frm71.pdb.
+Info) Opened coordinate file frm72.pdb for writing.
+Info) Finished with coordinate file frm72.pdb.
+Info) Opened coordinate file frm73.pdb for writing.
+Info) Finished with coordinate file frm73.pdb.
+Info) Opened coordinate file frm74.pdb for writing.
+Info) Finished with coordinate file frm74.pdb.
+Info) Opened coordinate file frm75.pdb for writing.
+Info) Finished with coordinate file frm75.pdb.
+Info) Opened coordinate file frm76.pdb for writing.
+Info) Finished with coordinate file frm76.pdb.
+Info) Opened coordinate file frm77.pdb for writing.
+Info) Finished with coordinate file frm77.pdb.
+Info) Opened coordinate file frm78.pdb for writing.
+Info) Finished with coordinate file frm78.pdb.
+Info) Opened coordinate file frm79.pdb for writing.
+Info) Finished with coordinate file frm79.pdb.
+Info) Opened coordinate file frm80.pdb for writing.
+Info) Finished with coordinate file frm80.pdb.
+Info) Opened coordinate file frm81.pdb for writing.
+Info) Finished with coordinate file frm81.pdb.
+Info) Opened coordinate file frm82.pdb for writing.
+Info) Finished with coordinate file frm82.pdb.
+Info) Opened coordinate file frm83.pdb for writing.
+Info) Finished with coordinate file frm83.pdb.
+Info) Opened coordinate file frm84.pdb for writing.
+Info) Finished with coordinate file frm84.pdb.
+Info) Opened coordinate file frm85.pdb for writing.
+Info) Finished with coordinate file frm85.pdb.
+Info) Opened coordinate file frm86.pdb for writing.
+Info) Finished with coordinate file frm86.pdb.
+Info) Opened coordinate file frm87.pdb for writing.
+Info) Finished with coordinate file frm87.pdb.
+Info) Opened coordinate file frm88.pdb for writing.
+Info) Finished with coordinate file frm88.pdb.
+Info) Opened coordinate file frm89.pdb for writing.
+Info) Finished with coordinate file frm89.pdb.
+Info) Opened coordinate file frm90.pdb for writing.
+Info) Finished with coordinate file frm90.pdb.
+Info) Opened coordinate file frm91.pdb for writing.
+Info) Finished with coordinate file frm91.pdb.
+Info) Opened coordinate file frm92.pdb for writing.
+Info) Finished with coordinate file frm92.pdb.
+Info) Opened coordinate file frm93.pdb for writing.
+Info) Finished with coordinate file frm93.pdb.
+Info) Opened coordinate file frm94.pdb for writing.
+Info) Finished with coordinate file frm94.pdb.
+Info) Opened coordinate file frm95.pdb for writing.
+Info) Finished with coordinate file frm95.pdb.
+Info) Opened coordinate file frm96.pdb for writing.
+Info) Finished with coordinate file frm96.pdb.
+Info) Opened coordinate file frm97.pdb for writing.
+Info) Finished with coordinate file frm97.pdb.
+Info) Opened coordinate file frm98.pdb for writing.
+Info) Finished with coordinate file frm98.pdb.
+Info) Opened coordinate file frm99.pdb for writing.
+Info) Finished with coordinate file frm99.pdb.
+Info) VMD for LINUXAMD64, version 1.9.4a37 (August 27, 2019)
+Info) Exiting normally.

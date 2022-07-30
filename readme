@@ -1,0 +1,4 @@
+distance 3 angstrom
+angle cutoff 20 D-H-A
+
+all H-bonds calculation performed for 30 to 103 residue
